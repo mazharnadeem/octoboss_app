@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="251.725" height="251.725" viewBox="0 0 251.725 251.725">
+  <defs>
+    <filter id="Icon_feather-octagon" x="0" y="0" width="251.725" height="251.725" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Icon_feather-octagon)">
+    <path id="Icon_feather-octagon-2" data-name="Icon feather-octagon" d="M71.481,3h96.762l68.481,68.481v96.762l-68.481,68.481H71.481L3,168.244V71.481Z" transform="translate(6 6)" fill="#fff"/>
+  </g>
+</svg>
